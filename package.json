@@ -16,6 +16,9 @@
     "url": "https://github.com/lojabasico/widgetsmith/issues"
   },
   "devDependencies": {
-    "grunt-bower-concat": "^0.5.0"
+    "grunt-bower-concat": "^0.5.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-jasmine": "^0.8.2",
+    "grunt-contrib-uglify": "^0.9.1"
   }
 }
