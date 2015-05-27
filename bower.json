@@ -1,0 +1,18 @@
+{
+  "name": "widgetsmith",
+  "version": "1.0.0",
+  "homepage": "https://github.com/lojabasico/widgetsmith",
+  "authors": [
+    "Renato Alves (@renatodex) e Lucas Santana (@lucasxxx)"
+  ],
+  "description": "A smart library to melt data with html",
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
